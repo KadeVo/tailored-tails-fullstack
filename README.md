@@ -4,7 +4,7 @@ Tailored Tails is an e-commerce website selling pet costumes, built with the MER
 This repo is the combination of our frontend & backend repositories  which are currently being used to be deployed on render.com. Going forward, I wish to add proper testing and high coverage to the important elements of our website in the near future.
 
 
-Created by Kadin Vo & Paul Tan
-URL = https://tailored-tails.onrender.com
-Deployed Frontend = https://github.com/KadeVo/tailored-tails-frontend
+Created by Kadin Vo & Paul Tan <br>
+URL = https://tailored-tails.onrender.com <br>
+Deployed Frontend = https://github.com/KadeVo/tailored-tails-frontend <br>
 Deployed Backend = https://github.com/KadeVo/tailored-tails-backend
