@@ -5,6 +5,6 @@ This repo is the combination of our frontend & backend repositories  which are c
 
 
 Created by Kadin Vo & Paul Tan <br>
-URL = https://tailored-tails.onrender.com <br>
+URL = https://tailoredtails.onrender.com <br>
 Deployed Frontend = https://github.com/KadeVo/tailored-tails-frontend <br>
 Deployed Backend = https://github.com/KadeVo/tailored-tails-backend
